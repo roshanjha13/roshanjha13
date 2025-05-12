@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning and exploring in Backend Web Development
 - 🎓 Graduated with a Bachelor’s degree in Information Technology from Academy Of Technology, Hoogly on July 2022
-- 🏢 Software Developer at Dynpro-IBM Feb 2024
+- 🏢 Software Developer Having 2.5 years of Experience making Robust Backend Application
 - ⚡️ Expertise primarily revolves around JavaScript,React.js, Node Js, MERN, Web Development.
 - 🤞 Trying my best to live a Happy Life
 - 🥅 2023 Goals: Contribute more to my projects, Learn more and stay active in Github
