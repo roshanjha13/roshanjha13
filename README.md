@@ -1,122 +1,120 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&width=600&lines=Hey+There!+I'm+Roshan+Kumar+Jha+%F0%9F%91%8B;Backend+Engineer+%7C+Node.js+%7C+MERN;Building+Scalable+APIs+%26+SaaS+Products)
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=roshanjha13&label=Profile+Views&color=0e75b6&style=flat" alt="roshanjha13" />
-  <img src="https://img.shields.io/github/followers/roshanjha13?label=Followers&style=flat&color=0e75b6" alt="followers" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Roshan+Kumar+Jha+%F0%9F%91%8B;Senior+Backend+Engineer+%7C+Node.js+%7C+MERN;Building+Production-Grade+APIs+%26+SaaS+Systems)
+
+<p>
+  <a href="mailto:jroshan916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/roshanjha13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/roshanjha13"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linktr.ee/roshanjha13"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=roshanjha13&label=Profile+Views&color=0e75b6&style=flat-square"/>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🏢 **Backend Engineer** with **3+ years of experience** building production-grade REST APIs and SaaS applications
-- 🚀 Currently building [**InvoiceAPI**](https://github.com/roshanjha13/invoice_api) — a production-ready SaaS Invoice Generation API with GST engine, subscription billing, and job queues
-- 💡 Passionate about **clean architecture**, **separation of concerns**, and writing backend code that scales
-- 🎓 B.Tech in Information Technology — Academy of Technology, Hooghly (2022)
-- 🌍 Based in **Pune, India** | Open to relocation
-- 📬 Reach me at: **jroshan916@gmail.com**
+Backend Engineer with **3+ years of experience** designing and shipping production-ready REST APIs and SaaS applications. I specialize in the **Node.js / Express.js / MongoDB** ecosystem with hands-on experience in distributed systems, job queues, payment integrations, and cloud deployments.
+
+- 🏗️ Strong focus on **clean architecture** — MVC + Repository Pattern, separation of concerns, modular design
+- 🔐 Deep experience with **authentication systems** — JWT, Refresh Tokens, OAuth 2.0, RBAC, account security
+- ⚙️ Comfortable with **concurrency patterns** — Cluster mode, Worker Threads, BullMQ job queues
+- 📊 Familiar with **observability** — Prometheus metrics, Winston structured logging, Swagger API docs
+- 🚀 Currently open to **SDE-2 / Senior Backend Engineer** roles at product-based companies
 
 ---
 
 ## 🚀 Featured Project — InvoiceAPI
 
-> A production-ready SaaS Invoice Generation API built from scratch
+> **A production-ready SaaS Invoice Generation API** · [github.com/roshanjha13/invoice_api](https://github.com/roshanjha13/invoice_api)
 
-**Tech:** Node.js · Express.js · MongoDB · Redis · BullMQ · Worker Threads · Razorpay · Docker · GitHub Actions
+Built from the ground up as a real-world SaaS product — not a tutorial clone. 15+ modules, 60+ files, ~6,000 lines of production-quality Node.js code.
 
-**Highlights:**
-- 🔐 JWT + Refresh Token auth, OAuth 2.0 (Passport.js), RBAC (Admin/Manager/User), account lockout
-- 🧾 GST Calculation Engine with HSN code detection, CGST/SGST/IGST breakdown
-- 💳 Razorpay payment & refund flow with idempotency middleware
-- ⚙️ BullMQ job queues + Worker Threads + Cluster mode for concurrency
-- 📊 Prometheus metrics, Winston logging, Swagger docs, Jest/Supertest tests
-- 🐳 Dockerized with docker-compose, CI/CD via GitHub Actions
+| Area | What's Implemented |
+|---|---|
+| 🔐 Auth & Security | JWT + Refresh Tokens, OAuth 2.0 (Passport.js), RBAC (Admin/Manager/User), Account Lockout |
+| 🧾 GST Engine | HSN code detection, auto CGST/SGST/IGST breakdown, invoice PDF generation |
+| 💳 Payments | Razorpay integration — payment initiation, webhook handling, refund flow, idempotency middleware |
+| ⚙️ Performance | Node.js Cluster mode, Worker Threads, BullMQ async job queues, Redis caching |
+| 📊 Observability | Prometheus metrics endpoint, Winston structured logging, Swagger/OpenAPI docs |
+| 🧪 Quality | Jest + Supertest test suite, GitHub Actions CI/CD pipeline |
+| 🐳 Deployment | Dockerized with docker-compose, deployable on Render / Railway |
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-InvoiceAPI-blue?style=for-the-badge&logo=github)](https://github.com/roshanjha13/invoice_api)
+**Stack:** `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `Razorpay` `Cloudinary` `Nodemailer` `Docker` `GitHub Actions`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Backend**
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 
-### 🗄️ Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+**Database & Caching**
 
-### ⚙️ Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Infrastructure & DevOps**
 
-### 📦 Other Tools & Services
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=maildotru&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-### ☁️ Hosting & Deployment
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+**Testing & Docs**
 
-### 🕓 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-009688?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🖥️ OS & IDE
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
+
+## 💼 Work Experience
+
+**Software Developer — DynPro (IBM Payroll)** · Vodafone Project
+- Worked on enterprise-scale backend systems handling Vodafone's business workflows
+- Gained hands-on experience with large codebase maintenance, API design, and cross-team collaboration
+
+**Software Developer — HIH7 Webtech**
+- Built and maintained REST APIs for client projects using Node.js and Express.js
+- Delivered full-stack MERN features across multiple product lines
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=roshanjha13&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars&border_radius=10" />
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanjha13&layout=compact&theme=tokyonight&langs_count=8&card_width=320&hide=c,shell,scss,php&border_radius=10" />
-</p>
+<div align="center">
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=roshanjha13&theme=tokyonight&show_icons=true&include_all_commits=true&hide=stars&border_radius=8" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanjha13&layout=compact&theme=tokyonight&langs_count=6&card_width=300&hide=c,shell,scss,php&border_radius=8" />
+</div>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-    <img title="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjha13&theme=tokyonight&hide_border=false&border_radius=10"/>
-</p>
-
-## 📈 Activity Graph
-
-![Roshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshanjha13&theme=tokyo-night&border_radius=10)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanjha13&theme=tokyonight&border_radius=8"/>
+</div>
 
 ---
 
-## 💬 Connect with Me
+## 📬 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jroshan916@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshanjha13)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshanjha13)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/roshanjha13)
+I'm actively looking for **SDE-2 / Senior Backend Engineer** opportunities at product-based companies (SaaS, Fintech, Edtech, API Infrastructure).
 
----
+If you're hiring or know someone who is — let's talk!
 
-<p align="center">
-  <i>"Good architecture is not about being clever — it's about making the right thing obvious."</i>
-</p>
+[![Email](https://img.shields.io/badge/jroshan916@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jroshan916@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect+on+LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshanjha13)
